@@ -1,0 +1,15 @@
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\bin\Debug\AppForm.exe.config
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\bin\Debug\AppForm.exe
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\bin\Debug\AppForm.pdb
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\obj\Debug\AppForm.csprojAssemblyReference.cache
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\obj\Debug\AppForm.Properties.Resources.resources
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\obj\Debug\AppForm.csproj.GenerateResource.cache
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\obj\Debug\AppForm.csproj.CoreCompileInputs.cache
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\obj\Debug\AppForm.exe
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\obj\Debug\AppForm.pdb
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\obj\Debug\AppForm.Form1.resources
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\obj\Debug\AppForm.Form3.resources
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\obj\Debug\AppForm.Form4.resources
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\obj\Debug\AppForm.Form5.resources
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\obj\Debug\AppForm.Form6.resources
+E:\CHUYÊN NGÀNH 5\C#\AppForm\AppForm\obj\Debug\AppForm.Form8.resources
